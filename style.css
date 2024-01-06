@@ -1,0 +1,429 @@
+body{
+    background-color: #0F1B33;
+}
+
+
+.nama  p {
+    color: white;
+    font-size: 24px;
+    position: absolute;
+    left: 81px;
+    top: 24px;
+    font-weight: 700;
+    font-family: 'Montserrat', sans-serif;
+    
+}
+
+
+.home  > p {
+    position: absolute;
+    left: 254px;
+    top: 37px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+   
+}
+
+.movie  > p {
+    position: absolute;
+    left: 338px;
+    top: 37px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+   
+}
+
+.anime  > p {
+    position: absolute;
+    left: 425px;
+    top: 37px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    
+   
+}
+
+.movie > .underline{
+    width: 67.5px;
+    position: absolute;
+    left: 330px;
+    top: 80px;
+    height: 1px;
+    background-color: blue;
+}
+
+.search{
+    background-color: #192642;
+    width: 270px;
+    height: 49px;
+    position: absolute;
+    left: 500px;
+    top: 37px;
+    border-radius: 46px;
+}
+
+.search > .icon-search{
+    width: 21.96px;
+    height: 17.72px;
+    position: absolute;
+    left: 15px;
+    top: 15px;
+}
+
+.search > .text-search{
+    position: absolute;
+    left: 50px;
+    top: 15px;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.sign-in{
+    position: absolute;
+    left: 850px;
+    top: 37px;
+}
+
+.sign-in > button{
+    width: 137px;
+    height: 49px;
+    border-radius: 12px;
+    background-color: #0F1B33;
+    color: #1D4ED8;
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    border: #0F1B33;
+    padding-left: 4px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.Sign-Up{
+    position: absolute;
+    left: 1000px;
+    top: 37px;
+}
+
+.Sign-Up > button{
+    width: 137px;
+    height: 49px;
+    border-radius: 12px;
+    background-color: #1D4ED8;
+    color: white;
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    border: #0F1B33;
+    padding: 10px;
+}
+.atas{
+    position: absolute;
+    left: 0;
+    top: 110px;
+    width: 1280px;
+}
+
+.poster > img{
+    width: 397px;
+    height: 521.63px;
+    border-radius: 20px;
+    position: relative;
+    left: 67.49px;
+    top: 151px;
+}
+
+.poster > .trailer {
+    background-color: #28334B;
+    width: 397px;
+    height: 65px;
+    position: absolute;
+    left: 80px;
+    top: 704px;
+    border-radius: 29px;
+   
+}
+
+.trailer > p {
+    color: #1D4ED8;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    position: absolute;
+    left: 150px;
+    top : 5px;
+}
+
+.trailer > .movie-icon {
+    position: absolute;
+    left: 116px;
+    top: 24px;
+}
+
+.film{
+    padding-left: 2px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
+
+.action > .favorit {
+    position: absolute;
+    left: 20px;
+    top: 120px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    color: white;
+    text-align: center;
+    font-size: 14px;
+
+}
+
+.action > .watch-later {
+    position: absolute;
+    left: 140px;
+    top: 126px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    color: white;
+    text-align: center;
+    font-size: 14px;
+
+}
+
+.action > .watched {
+    position: absolute;
+    left: 290px;
+    top: 121px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    color: white;
+    text-align: center;
+    font-size: 14px;
+
+}
+
+.judul {
+    color: white;
+   font-weight: 700;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 40px;
+    position: absolute;
+    top: 170px;
+    left: 553px;
+    width: 600px;
+}
+
+.btn-watch{
+    background-color: #1D4ED8 ;
+    width: 272px;
+    height: 80px;
+    border-radius: 44px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 24px;
+    font-weight: 500;
+    color: white;
+    position: absolute;
+    top: 130px;
+    padding: 10px;
+}
+
+.btn-watch > img {
+    position: absolute;
+    left: 60px;
+    top: 25px;
+}
+
+.btn-download{
+    background-color: #27334F;
+    width: 272px;
+    height: 80px;
+    border-radius: 44px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 24px;
+    font-weight: 500;
+    color: white;
+    position: absolute;
+    top: 130px;
+    left: 300px;
+    
+    align-items: center;
+}
+
+.btn-download > img {
+    position: absolute;
+    left: 30px;
+    top: 25px;
+}
+.judul-film{
+    padding: 10px;
+}
+
+.storyline > h4{
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-size: 16px;
+    position: absolute;
+    left: 563px;
+    top: 410px;
+}
+.storyline > p{
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    position: absolute;
+    left: 563px;
+    top: 470px;
+    width: 486px;
+    height: 100px;
+}
+
+.info > p {
+    position: absolute;
+    left: 563px;
+    top: 600px;
+    color: #606060;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    width: 400px;
+}
+
+.info > .ratting {
+    position: absolute;
+    left: 743px;
+    top: 600px;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    width: 400px;
+}
+
+.info > .release-year {
+    position: absolute;
+    left: 563px;
+    top: 670px;
+    color: #606060;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    width: 400px;
+}
+
+.info > .thn {
+    position: absolute;
+    left: 743px;
+    top: 670px;
+    color: white;
+    font-family: 'Montserrat' , sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    width: 400px;
+}
+
+.info > .Genres {
+    position: absolute;
+    left: 563px;
+    top: 740px;
+    color: #606060;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    width: 400px;
+}
+
+
+
+.info > .action {
+    position: absolute;
+    left: 743px;
+    top: 740px;
+    color: white;
+    font-family: 'Montserrat' , sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    width: 400px;
+    font-style: italic;
+}
+
+.line{
+    height: 2px;
+    width: 655.5px;
+    position: absolute;
+    left: 563px;
+    top: 800.5px;
+    background-color: #242E43;
+    border: none;
+}
+
+.twiter > button{
+    position: absolute;
+    left: 580px;
+    top: 830px;
+    width: 121px;
+    height: 57px;
+    border-radius: 38px;
+    background-color: #2A3448;
+   
+}
+
+.twiter > p{
+    position: absolute;
+    left: 660px;
+    top: 832px;
+    font-family: 'Montserrat' , sans-serif;
+   color: white;
+    font-weight: 400;
+}
+
+button > .burung {
+    position: absolute;
+    left: 10px;
+    top: 10px;
+}
+
+.facebook > button{
+    position: absolute;
+    left: 730px;
+    top: 830px;
+    width: 121px;
+    height: 57px;
+    border-radius: 38px;
+    background-color: #2A3448;
+   
+}
+
+.facebook > p{
+    position: absolute;
+    left: 810px;
+    top: 832px;
+    font-family: 'Montserrat' , sans-serif;
+   color: white;
+    font-weight: 400;
+}
+
+button > .fb {
+    position: absolute;
+    left: 10px;
+    top: 12px;
+}
+
+button > .like {
+    position: absolute;
+    left: 44px;
+    top: 16px;
+}
+
+
+
+
+
+
